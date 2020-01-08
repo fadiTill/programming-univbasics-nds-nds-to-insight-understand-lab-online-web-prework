@@ -11,5 +11,5 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  print_first_directors_movie_titles :z[0][0]
+  print_first_directors_movie_titles :s [0][0]
 end
