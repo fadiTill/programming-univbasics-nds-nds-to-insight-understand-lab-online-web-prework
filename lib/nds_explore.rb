@@ -4,7 +4,7 @@ require 'directors_database'
 Puts directors_database.pwd
 
 def pretty_print_nds(nds)
-  pretty_print = # Change the code below to pretty print the nds with pp
+  pretty_print =  PP.directors_database # Change the code below to pretty print the nds with pp
   nil
 end
 
